@@ -4,7 +4,7 @@ description: 本篇的Code介紹以Android對象為主。
 
 # 前言：Java String在RAM的存活方式
 
-GitBook Space URL :　
+GitBook Space URL :　[https://waihong7327.gitbook.io/string-improve-performance](https://waihong7327.gitbook.io/string-improve-performance/)
 
 　　不管開發Android App還是Java應用程式，String是我們必定會用到的Object。既可儲存文字資料，也可以使用它給予使用者訊息等等。但你有沒有想過，這個常用的Object會不會有開發上的性能問題呢？以下將會詳細的探討。
 
